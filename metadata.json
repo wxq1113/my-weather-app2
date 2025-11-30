@@ -1,0 +1,5 @@
+{
+  "name": "Isothermal Flux Framework",
+  "description": "Interactive visualization of the Isothermal Latent Heat Flux theory and validation framework based on eddy covariance data.",
+  "requestFramePermissions": []
+}
